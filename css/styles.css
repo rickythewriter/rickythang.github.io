@@ -605,12 +605,7 @@ progress {
 
 .img-fluid {
   max-width: 100%;
-  object-fit: cover;
-}
-
-.portfolio-item {
-  height: 100%;
-  border: 1px solid #fefefe;
+  height: auto;
 }
 
 .img-thumbnail {
@@ -1187,7 +1182,6 @@ progress {
   .col-md-6 {
     flex: 0 0 auto;
     width: 50%;
-    max-height: 140px;
   }
 
   .col-md-7 {
